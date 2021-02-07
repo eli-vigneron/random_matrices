@@ -1,2 +1,2 @@
-# random_matrices
+# Random Matrices
 A look at Painlevé equations 
